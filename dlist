@@ -1,0 +1,3 @@
+toyota=["camry","corola","nissan"]
+deltoyota[1]
+print(toyota)

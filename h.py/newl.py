@@ -1,0 +1,1 @@
+print("Kinds of fruits:\n apple\n banana\n pear\n peach\n ")
